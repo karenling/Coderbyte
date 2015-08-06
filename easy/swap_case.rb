@@ -8,7 +8,6 @@ def SwapCase(str)
   end
 
   str.join("")
-
 end
 
 p SwapCase("Hello World") # "hELLO wORLD"
