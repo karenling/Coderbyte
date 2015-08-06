@@ -1,6 +1,4 @@
 def ThirdGreatest(strArr)
-  # p strArr.sort_by(&:length)
-  # strArr.sort_by(&:length)[-3]
   first = ""
   second = ""
   third = ""
