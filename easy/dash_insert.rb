@@ -1,5 +1,4 @@
 def DashInsert(str)
-
   str = str.split("").map!(&:to_i)
   dashed = str[0].to_s
 
